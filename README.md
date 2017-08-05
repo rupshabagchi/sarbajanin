@@ -7,3 +7,5 @@ TODO:
 * add content
 * add pictures
 * registration form
+* calendar
+* contact us page
