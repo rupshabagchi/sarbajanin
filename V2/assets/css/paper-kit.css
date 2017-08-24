@@ -90,6 +90,7 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
 
 .description {
   color: #9A9A9A;
+  font-size: 20px;
 }
 
 blockquote small {
@@ -4723,7 +4724,9 @@ textarea.form-control {
     border: 1px solid #dddddd;
     -ms-overflow-style: -ms-autohiding-scrollbar;
     -webkit-overflow-scrolling: touch;
+
   }
+
 
   .typography-line {
     padding-left: 100px !important;
