@@ -43,7 +43,7 @@ h6, .h6 {
 }
 
 p {
-  font-size: 15px;
+  font-size: 18px;
   line-height: 1.5em;
   margin-bottom: 5px;
 }
@@ -4717,7 +4717,7 @@ textarea.form-control {
   }
 
   .table-responsive {
-    width: 100%;
+    width: 50%;
     margin-bottom: 15px;
     overflow-x: scroll;
     overflow-y: hidden;
