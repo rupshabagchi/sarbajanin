@@ -7,4 +7,5 @@ TODO:
 * add pictures
 * registration form
 * contact us page
+* check mobile view
 
