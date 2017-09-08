@@ -1,5 +1,8 @@
 /*      light colors - used for select dropdown         */
 /*           Font Smoothing      */
+html, body{
+  overflow-x: hidden;
+}
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, p, .navbar, .brand, a, .td-name, td, button, input, select, textarea {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -320,8 +323,7 @@ input[type="file"] > input[type="button"]::-moz-focus-inner {
 }
 
 .navbar-transparent {
-  background-color: transparent !important;
-  border-bottom: 1px solid transparent;
+  background-color: #f7765f !important;
 }
 
 .btn {
@@ -662,11 +664,11 @@ input[type="file"] > input[type="button"]::-moz-focus-inner {
 .btn-outline-info:hover, .btn-outline-info:focus, .btn-outline-info:active, .btn-outline-info.active, .open > .btn-outline-info.dropdown-toggle {
   background-color: #51bcda;
   color: rgba(255, 255, 255, 0.8);
-  border-color: #51bcda;
 }
 .btn-outline-info:hover .caret, .btn-outline-info:focus .caret, .btn-outline-info:active .caret, .btn-outline-info.active .caret, .open > .btn-outline-info.dropdown-toggle .caret {
   border-top-color: rgba(255, 255, 255, 0.8);
 }
+border-color: #51bcda;
 .btn-outline-info .caret {
   border-top-color: #FFFFFF;
 }
@@ -891,6 +893,7 @@ input[type="file"] > input[type="button"]::-moz-focus-inner {
 }
 .media .media-body .media-footer .btn-neutral i {
   margin-right: 0 !important;
+  overflow-x: hidden;
 }
 
 .form-control::-moz-placeholder {
