@@ -3,9 +3,5 @@
 
 Durga Puja 2017
 
-TODO: 
+TODO:
 * add pictures
-* registration form
-* contact us page
-* check mobile view
-
