@@ -3,4 +3,4 @@
 
 
 TODO:
-* add pictures
+* add pictures in the gallery
