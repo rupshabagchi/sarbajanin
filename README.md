@@ -4,3 +4,4 @@
 
 TODO:
 * add pictures in the gallery
+* registration forms
