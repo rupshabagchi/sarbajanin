@@ -6,7 +6,7 @@ Made for the Indian Bengali community in Finland, built with Twitter Bootstrap, 
 
 ## Demo
 
-Live at finben.org
+Live at [finben.org](www.finben.org)
 
 
 ## Copyright
