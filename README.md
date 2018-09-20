@@ -8,6 +8,9 @@ Made for the Indian Bengali community in Finland, built with Twitter Bootstrap, 
 
 Live at [finben.org](www.finben.org)
 
+![demo image](https://github.com/rupshabagchi/sarbajanin/blob/master/demo.png "Demo")
+
+
 
 ## Copyright
 
